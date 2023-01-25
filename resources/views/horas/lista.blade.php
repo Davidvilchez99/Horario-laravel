@@ -74,7 +74,7 @@
             <th>Id usuario</th> -->
             <th>Dia</th>
             <th>Hora</th>
-            <th>Asignatura cod</th>
+            <th>Asignatura</th>
             <th>Acciones</th>
         </tr>
         @foreach ($horasCompletas as $horaCompleta)
